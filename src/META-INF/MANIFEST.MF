@@ -1,0 +1,2 @@
+Main-Class: com.nikamooz.javase.workshop.ui.LoginDialog
+Class-Path: lib/commons-collections4-4.4.jar lib/commons-compress-1.19.jar lib/commons-ooxml-schemas-1.0.jar lib/poi-4.1.0.jar lib/poi.ooxml-4.1.0.jar lib/postgresql-9.4.1212.jar lib/xmlbeans-3.1.0.jar
